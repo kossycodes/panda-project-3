@@ -294,7 +294,10 @@ html {
           font-size: 1.6em;
         }
 
-        
+        .top-center {
+          padding-left: 1.2em;
+          padding-right: 2em;
+        }
       }
       
       
